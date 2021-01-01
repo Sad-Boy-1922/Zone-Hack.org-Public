@@ -1,9 +1,6 @@
 # Zone-Hack.org-Public# 🔰 Zone-Hack.org
 
 [![Author](http://zone-hack.org/asu.png)](https://github.com/Sad-Boy-1922)
-[![Source Code](http://img.shields.io/badge/source-jeckman/YouTubeDownloader-blue.svg)](https://github.com/Sad-Boy-1922)
-[![Live Demo](https://img.shields.io/travis/jeckman/YouTube-Downloader/master.svg)](https://zone-hack.org)
-[![Blog](https://badges.gitter.im/Join%20Chat.svg)](https://www.sadboy1922.my.id)
 
 
 # Global Defacement Web Archive
